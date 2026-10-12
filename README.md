@@ -1,1 +1,1 @@
-This ia good weather app.
+weather app.
